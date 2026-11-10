@@ -1,0 +1,6 @@
+{
+  "name": "Triangula - Orientación Espacial Sin GPS",
+  "description": "Sistema de posicionamiento y orientación espacial en interiores sin conexión a internet ni GPS mediante triangulación de señales Wi-Fi, Bluetooth BLE y sensores inerciales.",
+  "requestFramePermissions": ["accelerometer", "gyroscope", "magnetometer"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

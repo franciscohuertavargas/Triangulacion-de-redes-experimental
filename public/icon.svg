@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="128" fill="#080C14"/>
+  <circle cx="256" cy="256" r="210" stroke="#1E293B" stroke-width="6" stroke-dasharray="8 8"/>
+  <circle cx="256" cy="256" r="150" stroke="#334155" stroke-width="4"/>
+  <circle cx="256" cy="256" r="90" stroke="#06B6D4" stroke-width="3" stroke-opacity="0.4"/>
+  <line x1="256" y1="46" x2="256" y2="466" stroke="#1E293B" stroke-width="3"/>
+  <line x1="46" y1="256" x2="466" y2="256" stroke="#1E293B" stroke-width="3"/>
+  <!-- Beacons -->
+  <circle cx="160" cy="150" r="16" fill="#06B6D4"/>
+  <circle cx="160" cy="150" r="32" stroke="#06B6D4" stroke-width="3" stroke-opacity="0.6"/>
+  <circle cx="360" cy="180" r="16" fill="#3B82F6"/>
+  <circle cx="360" cy="180" r="32" stroke="#3B82F6" stroke-width="3" stroke-opacity="0.6"/>
+  <circle cx="240" cy="380" r="16" fill="#10B981"/>
+  <circle cx="240" cy="380" r="32" stroke="#10B981" stroke-width="3" stroke-opacity="0.6"/>
+  <!-- User Triangulated Position -->
+  <circle cx="245" cy="235" r="14" fill="#F59E0B"/>
+  <circle cx="245" cy="235" r="48" stroke="#F59E0B" stroke-width="4" stroke-dasharray="6 6"/>
+  <circle cx="245" cy="235" r="4" fill="#FFFFFF"/>
+</svg>
